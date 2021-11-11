@@ -1,0 +1,27 @@
+h1 {
+    font-size: 45px;
+    color: blue;
+    text-align: center;
+    border-bottom: 1px solid gray;
+    margin: 0;
+    padding: 20px;
+}
+p{
+    margin-top: 50px;
+}
+div{
+    width: 70%;                
+}
+a{
+    color: black;
+}
+.saw {
+     color:gray;
+}
+#active{
+    color: aqua;
+}
+ol {
+    border-right: 1px solid gray;
+    width: 200px;
+}
